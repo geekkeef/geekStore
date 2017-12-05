@@ -1,0 +1,17 @@
+db.products.insert({
+  "Price": 1997.99,
+  "Title": "Panasonic Lumix GH5",
+  "imgUrl": "http://www.geekkeef.com/pix/geekShop/81uZfjAviHL._SL1500_.jpg"
+})
+
+db.products.insert({
+  "Price": 499.00,
+  "Title": "Xbox One X 1TB Console",
+  "imgUrl": "http://www.geekkeef.com/pix/geekShop/61ux1cU49XL._AC_.jpg"
+})
+
+db.products.insert({
+  "Price": 650.00,
+  "Title": "adidas Yeezy Boost 350 V2 Beluga 2.0",
+  "imgUrl": "http://www.geekkeef.com/pix/geekShop/51nUggmMgeL._AC_UL260_SR200,260_.jpg"
+})

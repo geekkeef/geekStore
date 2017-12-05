@@ -1,0 +1,13 @@
+/* Product
+===================================================================== */
+
+.product {
+    display: block;
+    margin: 0 auto;
+}
+
+.product__image {
+    width: 50%;
+    height: auto;
+}
+
